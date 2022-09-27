@@ -1,23 +1,23 @@
-# My Docsify template
+# General Bookmarks
 
-Based on [Docsify tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/) and the following plugins.
+- [Awesome](https://github.com/sindresorhus/awesome) lists of everything.
 
-- [docsify-themable](https://github.com/jhildenbiddle/docsify-themeable)
-- [docsify-katex](https://upupming.site/docsify-katex/docs/)
-- [docsify-copy-code](https://github.com/jperasmus/docsify-copy-code)
-- [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs/)
-- [docsify-example-panels](https://vagnerdomingues.github.io/docsify-example-panels/)
-- [docsify-plugin-flexible-alerts](https://github.com/fzankl/docsify-plugin-flexible-alerts)
-- [docsify-plugin-toc](https://github.com/justintien/docsify-plugin-toc)
+## Free tools
 
-## Hosting on GitHub pages
+- [MikuTools](https://tools.miku.ac/) : a collection of small useful online tools.
+- [免費資源網路社群 (Traditional Chinese)](https://free.com.tw/) : introducing of free tools.
+- [draw.io](https://www.draw.io/): Flow chart and diagram maker.
+- [PDF24](https://tools.pdf24.org/en/): 24 free PDF tools.
 
-Click the `Use this template` big green button to create a new project based on this one.
+## Math tools
 
-Afterwrads, in the `repository settings` -> `pages` -> select root folder for the `main` branch.
+- [Desmos graphing calculator](https://www.desmos.com/calculator)
+- [Geogebra](https://www.geogebra.org/)
 
-## Hosting on GitLab pages
+## Regex
 
-Create a new project and import this repository: `https://gitlab.com/sosiristseng/template-docsify.git`
+- [Regex 101](https://regex101.com/)
+- [Regexr](https://regexr.com/)
+- [Regex tester](https://www.regextester.com/)
 
-See also the example [GitLab pipeline file](https://gitlab.com/sosiristseng/gitlab-templates/-/blob/main/docsify.gitlab-ci.yml).
+
