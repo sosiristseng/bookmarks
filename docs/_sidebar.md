@@ -6,3 +6,4 @@
 - [Python](/python.md)
 - [Web](/web.md)
 - [Windows](/windows.md)
+- [Research](/research.md)

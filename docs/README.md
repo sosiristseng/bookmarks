@@ -20,4 +20,8 @@
 - [Regexr](https://regexr.com/)
 - [Regex tester](https://www.regextester.com/)
 
+## Office templates
 
+- [My Graph Paper](https://www.mygraphpaper.com/)
+- [SlidesGo](https://slidesgo.com/): Free Google Slides and PowerPoint templates
+- [Word templates](https://www.vertex42.com/WordTemplates/): Microsoft Word templates
