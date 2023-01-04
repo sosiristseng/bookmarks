@@ -1,7 +1,7 @@
 - [🏠 **Home**](/)
 - [Art](/art.md)
 - [Coding Tools](/coding.md)
-- [Document processing and research](/document.md)
+- [Document processing](/document.md)
 - [Linux](/linux.md)
 - [Python](/python.md)
 - [Web](/web.md)
