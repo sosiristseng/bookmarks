@@ -16,6 +16,7 @@ See also [Jace.pro's post](https://jace.pro/post/2020-12-17-cloudflare-pages-net
 - [Bookdown](https://bookdown.org) : Write HTML, PDF, ePub, and Kindle books with R Markdown. Wriiten in `R`.
 - [Jekyll](https://jekyllrb.com) : The default SSG for GitHub pages. Wriiten in `Ruby`. See also [just-the-docs](https://github.com/just-the-docs/just-the-docs)
 - [Publii](https://github.com/GetPublii/Publii) : A content management system (CMS) for creating static websites fast and hassle-free, even for beginners.
+- [Quarto](https://quarto.org/) : an open-source scientific and technical publishing system built on Pandoc. It supports Markdown and Jupyter notebooks.
 
 ### Hugo
 
@@ -36,6 +37,9 @@ See also [Jace.pro's post](https://jace.pro/post/2020-12-17-cloudflare-pages-net
 - [Toha](https://github.com/hugo-toha/toha)
 - [Wowchemy](https://github.com/wowchemy/wowchemy-hugo-themes)
 - [Relearn](https://github.com/McShelby/hugo-theme-relearn)
+
+Hugo theme components
+
 - [hugo-notice](https://github.com/martignoni/hugo-notice) : A Hugo theme component to display nice notices.
 
 ### Hexo
