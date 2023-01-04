@@ -114,7 +114,6 @@ Generating PDF documents from XML/HTML using the "CSS Paged Media", which is kin
 
 - [Sci-Hub](https://sci-hub.se/)
 - [Library Genesis](http://libgen.rs/)
-- [Z-Library](https://1lib.net/)
 
 </details>
 

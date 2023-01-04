@@ -1,2 +1,2 @@
 - [Home](/)
-- [GitHub](https://github.com/sosiristseng/)
+- [My Blog](https://sosiristseng.github.io/)
